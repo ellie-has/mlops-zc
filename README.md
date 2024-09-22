@@ -1,1 +1,3 @@
-# mlops-zc
+# MLOPS
+
+MLops Zoomcamp Course
